@@ -25,6 +25,9 @@ That being said, I am super enthusiasthic helping the OpenEdge community. Any su
 
 ## Release notes
 
+### v0.2.3
+- Added support for cls extension (thanks simondrum)
+
 ### v0.2.2
 - Change submodule url to https
 
