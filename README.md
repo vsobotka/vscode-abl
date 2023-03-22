@@ -4,6 +4,8 @@ This is a language support for Visual Studio Code. I have decided to put this up
 - Grammar repository: https://github.com/ZaphyrVonGenevese/openedge-abl-syntax
 - For latest changes see: [Release notes](#release-notes)
 
+This project is not maintained, as I do not work with OpenEdge ABL anymore.
+
 ## Syntax definition is not in this repository
 For issues and other things regarding syntax definition, see
  - https://github.com/ZaphyrVonGenevese/openedge-abl-syntax
